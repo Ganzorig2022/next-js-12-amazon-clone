@@ -15,3 +15,7 @@ yarn add react-responsive-carousel
 # 3 - ServerSideProps from "fakestoreapi.com"
 
 yarn add react-currency-formatter
+
+<!-- Set a new remote repo -->
+
+git remote set-url origin https://github.com/Ganzorig2022/next-js-12-amazon-clone.git
