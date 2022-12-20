@@ -55,3 +55,4 @@ Read this: https://next-auth.js.org/getting-started/example
 # 8 - Deploy to VERCEL
 
 1. env-ee vercel dr huulna.
+2. server error!!!!
