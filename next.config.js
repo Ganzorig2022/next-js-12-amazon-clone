@@ -5,6 +5,6 @@ module.exports = {
     appDir: true,
   },
   images: {
-    domains: ['pngimg.com', 'fakestoreapi.com'],
+    domains: ['pngimg.com', 'fakestoreapi.com', 'www.junglescout.com'],
   },
 };
