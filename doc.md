@@ -51,3 +51,7 @@ Read this: https://next-auth.js.org/getting-started/example
 
 1. "/src/slices/basketSlice.js" file uusgew.
 2. "/src/pages/checkout.js" file dtor ashiglaw.
+
+# 8 - Deploy to VERCEL
+
+1. env-ee vercel dr huulna.

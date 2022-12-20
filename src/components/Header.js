@@ -15,7 +15,7 @@ const Header = () => {
   const items = useSelector(selectItems);
 
   return (
-    <header>
+    <header className='sticky top-0 z-50'>
       {/* 1) Top nav */}
       <div className='flex items-center bg-amazon_blue p-1 flex-grow py-2'>
         {/* 640px-ees doosh Amazon logo ni GROW hj telne. */}
